@@ -10,3 +10,8 @@
 - Branch 分支
 - Pull Request
 - GitHub Pages
+## 關於我
+
+我是正在學習 GitHub 的初學者。
+
+我的目標是熟悉版本控制、協作流程，以及建立自己的作品集網頁。
