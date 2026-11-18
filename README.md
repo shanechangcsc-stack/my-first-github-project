@@ -18,3 +18,10 @@
 
 你好~~
 自我介紹
+## 今日進度
+
+- [x] 建立我的第一個 GitHub repository
+- [x] 編輯 README.md
+- [x] 完成第一次 commit
+- [ ] 建立第一個 branch
+- [ ] 完成第一個 Pull Request
