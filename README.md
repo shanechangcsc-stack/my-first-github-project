@@ -23,8 +23,8 @@
 - [x] 建立我的第一個 GitHub repository
 - [x] 編輯 README.md
 - [x] 完成第一次 commit
-- [x ] 建立第一個 branch
-- [ ] 完成第一個 Pull Request
+- [x] 建立第一個 branch
+- [x] 完成第一個 Pull Request
 
 ## 分支練習
 
